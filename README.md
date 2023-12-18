@@ -4,6 +4,8 @@
 - `Vagrantfile`: This is the main configuration file for vagrant. It sets up the virtual machine environment and specifies how to access it.
 The vagrant files are located in the `vagrant` directory.  The main file is called `Vagrantfile`.
 
-Includes vagrant configuration files to automate the provisioning of a website on Apache Web Server for CentOS and a wordpress site for Ubuntu 20.04 on the same. 
+- Includes vagrant configuration files to automate the provisioning of a website on Apache Web Server for CentOS and a wordpress site for Ubuntu 20.04 on the same. 
+
+- Also includes the vagrant configuration file to automate the deployment/provisioning of multiple VMs from a single vagrant config file.
 
 Practice of IaaC on a local development environment using Vagrant 
