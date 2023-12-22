@@ -4,5 +4,5 @@
 -`Dockerfile`: Contains provisioning code to create a custom docker image that comes packaged with nginx server and automated deployment of an artifact of a static website onto the nginx server.
 
 
-## You can pull the docker images from the dockerhub using following command
+## You can pull the docker image from the dockerhub using following command
 `docker pull docker782/staticapp`
